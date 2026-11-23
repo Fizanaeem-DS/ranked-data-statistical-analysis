@@ -22,8 +22,13 @@ This repository presents the **course project's analysis**, not a newly collecte
 ## Repository structure
 
 - `R/SDS_RankedData_final.R` — main analysis script
-- `presentation/FINAL_PRESENTATION_NOTES.md` — final presentation results, group attribution and limitations (text companion; original PDF not redistributed)\n- `DEPENDENCIES.md` — R package dependencies and setup notes
+- `presentation/FINAL_PRESENTATION_NOTES.md` — final presentation results, group attribution and limitations (text companion; original PDF not redistributed)
+- `DEPENDENCIES.md` — R package dependencies and setup notes
 - `.gitignore` — excludes local history, generated files, and private data
+
+## Presentation
+
+See [the final presentation notes](presentation/FINAL_PRESENTATION_NOTES.md) for the submitted findings and group credits. The original slide deck is not redistributed because it includes student identification numbers.
 
 ## Running the analysis
 
