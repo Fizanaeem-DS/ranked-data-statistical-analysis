@@ -1,0 +1,19 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Local environment and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+
+# Original dataset not redistributed until license is confirmed
+data/*.xlsx
+data/*.xls
+
+# Generated output
+*.Rout
