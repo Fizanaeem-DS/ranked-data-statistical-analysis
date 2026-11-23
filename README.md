@@ -22,7 +22,7 @@ This repository presents the **course project's analysis**, not a newly collecte
 ## Repository structure
 
 - `R/SDS_RankedData_final.R` — main analysis script
-- `DEPENDENCIES.md` — R package dependencies and setup notes
+- `presentation/FINAL_PRESENTATION_NOTES.md` — final presentation results, group attribution and limitations (text companion; original PDF not redistributed)\n- `DEPENDENCIES.md` — R package dependencies and setup notes
 - `.gitignore` — excludes local history, generated files, and private data
 
 ## Running the analysis
@@ -41,7 +41,7 @@ The script loads `data/pare-1331-finch.xlsx`. The original submitted script used
 
 The faculty-ranking dataset is associated with Holmes Finch's paper, *An Introduction to the Analysis of Ranked Response Data* (2022), included as a reference in the original course materials. Consult the original publication and supplementary materials for the data source and reuse conditions. The dataset and article PDF are not redistributed here pending confirmation of their license.
 
-The analysis code and project presentation were developed for a Statistical Data Science course project. This repository does not claim ownership of the original research dataset or paper.
+The analysis code and project presentation were developed for a Statistics for Data Science course project by Ankit Kumar Bhagat, Fiza Naeem, and Ivane Maeva Nague. This repository does not claim ownership of the original research dataset or paper.
 
 ## Tools
 
